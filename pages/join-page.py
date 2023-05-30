@@ -1,8 +1,8 @@
 import base64
-import fastparquet
+# import fastparquet
+# import numpy as np
 import streamlit as st
 import pandas as pd
-import numpy as np
 
 
 def manage_uploads(u_file):
